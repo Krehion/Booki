@@ -66,6 +66,10 @@ main {
     gap: 2.19rem;
 }
 
+button:hover {
+    cursor: pointer; /* <button> acts like <a> */
+}
+
 /* ########## HEADER ########## */
 
 header {
