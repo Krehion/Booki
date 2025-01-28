@@ -6,3 +6,7 @@ Projet 2 de la formation *Développeur d'application JavaScript React* d'OpenCla
 ![Booki mockup](https://raw.githubusercontent.com/Krehion/Booki/refs/heads/main/booki-mockup.jpg)
 
 Intégration de la page d'accueil d'une agence de voyage avec HTML et CSS à partir d'une maquette Figma et d'une base de code.
+
+### Objectifs pédagogiques du projet
+- Intégrer du contenu conformément à une maquette
+- Implémenter une interface responsive
